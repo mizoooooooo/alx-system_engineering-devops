@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 echo "input file name"
 read filename
