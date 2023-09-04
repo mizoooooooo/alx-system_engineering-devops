@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "enter a file name"
+read val
+
+echo "#!/bin/bash" > ${val}
+chmod u+x ${val}
