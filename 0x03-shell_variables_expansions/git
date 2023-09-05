@@ -2,4 +2,4 @@
 
 git add .
 git commit -m "p 0x03 shell"
-git pash
+git push
