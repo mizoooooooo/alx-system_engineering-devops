@@ -1,2 +1,2 @@
 #!/bin/bash
-echo aaa=$PATH:/action
+echo PATH=$PATH:/action
