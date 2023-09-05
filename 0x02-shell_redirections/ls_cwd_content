@@ -1,5 +1,5 @@
-total 48
-drwxr-xr-x 2 root root 244 Sep  4 16:34 .
+total 52
+drwxr-xr-x 2 root root 273 Sep  4 17:04 .
 drwxr-xr-x 6 root root 121 Sep  4 14:17 ..
 -rwxr--r-- 1 root root  32 Sep  4 15:19 0-hello_world
 -rwxr--r-- 1 root root  28 Sep  4 15:33 1-confused_smiley
@@ -8,9 +8,10 @@ drwxr-xr-x 6 root root 121 Sep  4 14:17 ..
 -rwxr--r-- 1 root root  29 Sep  4 15:47 4-lastlines
 -rwxr--r-- 1 root root  29 Sep  4 15:48 5-firstlines
 -rwxr--r-- 1 root root  40 Sep  4 15:56 6-third_line
--rwxr--r-- 1 root root  98 Sep  4 16:15 7-file
--rwxr--r-- 1 root root  36 Sep  4 16:34 8-cwd_state
+-rwxr--r-- 1 root root  98 Sep  4 17:00 7-file
+-rwxr--r-- 1 root root  37 Sep  4 17:04 8-cwd_state
+-rwxr--r-- 1 root root  37 Sep  4 16:43 9-duplicate_last_line
 -rwxr--r-- 1 root root  92 Sep  4 14:16 creat
 -rwxr--r-- 1 root root  88 Sep  4 14:34 git
--rw-r--r-- 1 root root   0 Sep  4 16:34 ls_cwd_content
+-rw-r--r-- 1 root root   0 Sep  4 17:04 ls_cwd_content
 -rw-r--r-- 1 root root   6 Sep  4 15:16 README.md
